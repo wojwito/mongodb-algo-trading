@@ -7,7 +7,7 @@ This is a very basic algo trading simulator that does the following:
 3. Plots the price and both moving averages
 4. When moving averages intersect (= one becomes greater than the other one) it executes a BUY trades. When the opposite happens, it executes a SELL.
 5. Calculates individual trade P&L
-6. When terminated, it shows a cumulative P&L
+6. When terminated, it shows a cumulative P&L and saves all trades into a CSV
 
 It's fairly basic Java code so there's not much to explain. Please bear in mind this is just a demo/side project and should not be used in production/enterprise environments. 
 
