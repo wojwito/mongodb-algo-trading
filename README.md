@@ -1,5 +1,6 @@
 # mongodb-algo-trading
 
+# ABOUT
 This is a very basic algo trading simulator that does the following:
 
 1. Pulls prices from the database
@@ -9,6 +10,8 @@ This is a very basic algo trading simulator that does the following:
 5. Calculates individual trade P&L
 6. When terminated, it shows a cumulative P&L and saves all trades into a CSV
 
+
+# HOW TO RUN
 It's fairly basic Java code so there's not much to explain. Please bear in mind this is just a demo/side project and should not be used in production/enterprise environments. 
 
 The application uses a couple of external libraries that you'll have to download and include in your classpath:
