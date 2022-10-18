@@ -12,11 +12,13 @@ This is a very basic algo trading simulator that does the following:
 
 
 # HOW TO RUN
-It's fairly basic Java code so there's not much to explain. Please bear in mind this is just a demo/side project and should not be used in production/enterprise environments. 
+It's fairly basic Java and all the source code is attached. I used Maven to build it and I recommend you do the same. 
 
 The application uses a couple of external libraries that you'll have to download and include in your classpath:
 
  1. JFreeChart - https://www.jfree.org/jfreechart/
  2. MigLayout - https://www.miglayout.com/
+
+Please bear in mind this is just a demo/side project and should not be used in production/enterprise environments. 
 
 Enjoy!
